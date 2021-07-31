@@ -1,0 +1,31 @@
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+tr {
+    text-align: center;
+    padding: 10px;
+}
+#mon {
+    background-color: rgb(0, 255, 34);
+}
+#tue {
+    background-color: rgb(130, 0, 113);
+}
+#wed {
+    background-color:rgb(158, 235, 5);
+}
+#thu {
+    background-color: rgb(124, 216, 112);
+}
+#fri {
+    background-color: rgb(6, 75, 60);
+}
+#lun {
+    background-color:rgb(180, 119, 6);
+}
+.text {
+    transform: rotate(-90deg); 
+    position:relative;
+}

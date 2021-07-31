@@ -1,0 +1,49 @@
+#logo {
+    width: 40px;
+    height: 40px;
+    }
+    
+    #menu, #content, #footer {
+        margin-top: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color:rgb(179, 245, 179);
+    }
+    #content {
+        width: auto;
+        height: auto;
+        background-color:rgb(105, 255, 130) ;
+    }
+    #footer {
+        width: auto;
+        height: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(47, 255, 47);
+    }#logo {
+        width: 40px;
+        height: 40px;
+        }
+        
+        #menu, #content, #footer {
+            margin-top: 10px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
+            background-color:rgb(245, 179, 215);
+        }
+        #content {
+            width: auto;
+            height: auto;
+            background-color:rgb(158, 105, 255) ;
+        }
+        #footer {
+            width: auto;
+            height: auto;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            background-color: rgb(255, 47, 47);
+        }
